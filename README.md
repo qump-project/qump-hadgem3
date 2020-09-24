@@ -1,7 +1,9 @@
-# qump-hadgem3
+# QUMP-HadGEM3
 
-This repository holds the website for the QUMP-HadGEM3 project. It is in the `gh-pages` branch.
+This repository holds the public website for the QUMP-HadGEM3 project.
 
-The website is visible at https://qump-project.github.io/qump-hadgem3/
+The `docs/` folder contains the content for the website, using GitHub Pages. The website is visible at https://qump-project.github.io/qump-hadgem3/.
+
+The `notebooks/` folder contains Jupyter Notebooks with code examples.
 
 Work in progress!
