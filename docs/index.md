@@ -31,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jupyter notebooks
 ... can be placed in the `master` branch of this repository, then linked [like this](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/Notebook_example.ipynb).
 
+Test notebook for reading in PPE csv files with pandas: [link to notebook](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/read_csvfile_pandas.ipynb).
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qump-project/qump-hadgem3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
