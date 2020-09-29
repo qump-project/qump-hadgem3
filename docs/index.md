@@ -1,3 +1,7 @@
+
+See [here](https://github.com/qump-project/qump-hadgem3/edit/master/docs/index_original.md) for tips on how to use markdown and link to documents, notebooks or get help in Github.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/qump-project/qump-hadgem3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
