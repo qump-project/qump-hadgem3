@@ -1,5 +1,5 @@
 
-See [here](https://github.com/qump-project/qump-hadgem3/edit/master/docs/index_original.md) for tips on how to use markdown and link to documents, notebooks or get help in Github.
+See [here](https://qump-project.github.io/qump-hadgem3/index_original) for tips on how to use markdown and link to documents, notebooks or get help in Github.
 
 
 ## Welcome to GitHub Pages
