@@ -24,10 +24,11 @@ See our [Key Documents](https://qump-project.github.io/qump-hadgem3/key-document
 * [CSSP-China](https://www.metoffice.gov.uk/research/approach/collaboration/newton/cssp-china/index): A collaboration between key institutes in China and the UK, aimed at developing climate science and services to support resilient economic development and social welfare in China.
 
 
-# Jupyter notebooks
-... can be placed in the `master` branch of this repository, then linked [like this](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/Notebook_example.ipynb).
+# Using the projections: Example notebooks
 
-Test notebook for reading in PPE csv files with pandas: [link to notebook](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/read_csvfile_pandas.ipynb).
+These example Python jupyter notebooks will take you through some important aspects of using the HadGEM3-GC3.05 PPE projections data.
+
+* Reading in and using PPE parameter values with pandas: [link to notebook](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/read_csvfile_pandas.ipynb).
 
 
 # Help
