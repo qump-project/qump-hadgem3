@@ -12,13 +12,19 @@ Therefore, there is no single best estimate, only a range, of future climate cha
 
 To explore the modelling uncertainty, we generate ensembles of climate projections where each realisation differs from the other members by altering the approximations of the key climate processes within plausible bounds. These ensembles, together with output from other climate models, are used to understand and quantify uncertainties in climate projections on different space and time scales.
 
-### Jupyter notebooks
+## Key projects
+
+UKCP18: Providing up-to-date assessment of how the UK climate may change in the future.
+CSSP-China: A collaboration between key institutes in China and the UK, aimed at developing climate science and services to support resilient economic development and social welfare in China.
+
+
+## Jupyter notebooks
 ... can be placed in the `master` branch of this repository, then linked [like this](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/Notebook_example.ipynb).
 
 Test notebook for reading in PPE csv files with pandas: [link to notebook](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/read_csvfile_pandas.ipynb).
 
 
-### Help
+## Help
 See [here](https://qump-project.github.io/qump-hadgem3/index_original) for tips on how to use markdown and link to documents, notebooks or get help in Github.
 
 
