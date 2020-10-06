@@ -1,4 +1,4 @@
-![Image for PPE](https://raw.githubusercontent.com/qump-project/qump-hadgem3/master/images/QumpStampImage.png | width=500 height=500)
+![Image for PPE](https://raw.githubusercontent.com/qump-project/qump-hadgem3/master/images/QumpStampImage.png =500x500)
 
 
 ### Jupyter notebooks
