@@ -15,7 +15,7 @@ To explore the modelling uncertainty, we generate ensembles of climate projectio
 
 # The HadGEM3-GC3.05 PPE
 
-See our Key Documents page for more detail on the projections.
+See our [Key Documents](https://qump-project.github.io/qump-hadgem3/key-documents/) page for more detail on the projections.
 
 
 # Key projects
