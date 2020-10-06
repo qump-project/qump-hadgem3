@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Key Documents"
 permalink: /key-documents/
+---
 
 # Key Documents
 
