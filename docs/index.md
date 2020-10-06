@@ -3,10 +3,10 @@
 
 We cannot be certain about future climate change because:
 
- * some variations in climate are inherently unpredictable (internal variability);
- * we evaluate climate model output using measurements which have errors (observational uncertainty);
- * we only have plausible storylines of how anthropogenic emissions might evolve (emissions uncertainty);
- * we have limited computer resources and an imperfect knowledge of the Earth system, so climate models have to approximate some of the key processes that affect climate change (modelling uncertainty). By understanding our climate model across a range of time scales, we can learn about errors in our climate model and factor this information into the projections.
+* some variations in climate are inherently unpredictable (internal variability);
+* we evaluate climate model output using measurements which have errors (observational uncertainty);
+* we only have plausible storylines of how anthropogenic emissions might evolve (emissions uncertainty);
+* we have limited computer resources and an imperfect knowledge of the Earth system, so climate models have to approximate some of the key processes that affect climate change (modelling uncertainty). By understanding our climate model across a range of time scales, we can learn about errors in our climate model and factor this information into the projections.
  
 Therefore, there is no single best estimate, only a range, of future climate change.
 
@@ -14,8 +14,8 @@ To explore the modelling uncertainty, we generate ensembles of climate projectio
 
 ## Key projects
 
-UKCP18: Providing up-to-date assessment of how the UK climate may change in the future.
-CSSP-China: A collaboration between key institutes in China and the UK, aimed at developing climate science and services to support resilient economic development and social welfare in China.
+* UKCP18: Providing up-to-date assessment of how the UK climate may change in the future.
+* CSSP-China: A collaboration between key institutes in China and the UK, aimed at developing climate science and services to support resilient economic development and social welfare in China.
 
 
 ## Jupyter notebooks
