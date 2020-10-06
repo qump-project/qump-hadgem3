@@ -1,6 +1,17 @@
 <img src="https://raw.githubusercontent.com/qump-project/qump-hadgem3/master/images/QumpStampImage.png" alt="Image for PPE" width=500 height=500 />
 
 
+We cannot be certain about future climate change because:
+
+ * some variations in climate are inherently unpredictable (internal variability);
+ * we evaluate climate model output using measurements which have errors (observational uncertainty);
+ * we only have plausible storylines of how anthropogenic emissions might evolve (emissions uncertainty);
+ * we have limited computer resources and an imperfect knowledge of the Earth system, so climate models have to approximate some of the key processes that affect climate change (modelling uncertainty). By understanding our climate model across a range of time scales, we can learn about errors in our climate model and factor this information into the projections.
+ 
+Therefore, there is no single best estimate, only a range, of future climate change.
+
+To explore the modelling uncertainty, we generate ensembles of climate projections where each realisation differs from the other members by altering the approximations of the key climate processes within plausible bounds. These ensembles, together with output from other climate models, are used to understand and quantify uncertainties in climate projections on different space and time scales.
+
 ### Jupyter notebooks
 ... can be placed in the `master` branch of this repository, then linked [like this](https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/Notebook_example.ipynb).
 
