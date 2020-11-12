@@ -4,6 +4,15 @@ description: ""
 permalink: /key-documents/
 ---
 
+### Definition of parameter perturbations
+[Link to notebook] (https://nbviewer.jupyter.org/github/qump-project/qump-hadgem3/blob/master/notebooks/read_csvfile_pandas.ipynb) on how to read CSV files that store the parameter perturbations for the following base model configurations:
+   * *GA7*
+      * [Full set of perturbations](https://github.com/qump-project/qump-hadgem3/blob/master/data/GA7ParametersWave1and2and3andAtmosWave2b_020916.csv)
+      * [20 parameter combinations used for Yamazaki et al (2020)](https://github.com/qump-project/qump-hadgem3/blob/master/data/ukcp18_strand2_ppe20.csv)
+      * [15 parameter combinations used for part of UKCP Global projections](https://github.com/qump-project/qump-hadgem3/blob/master/data/ukcp18_strand2_ppe20.csv)
+   * *GA8*
+      * To be finalised Dec 2020
+
 ### Key Papers and Reports
 
 Murphy JM, Harris GR, Sexton DMH, et al (2018) UKCP18 Land Projections: Science Report [link to report](https://www.metoffice.gov.uk/pub/data/weather/uk/ukcp18/science-reports/UKCP18-Land-report.pdf)
