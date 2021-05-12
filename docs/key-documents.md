@@ -19,7 +19,7 @@ We do not know of a neat way to download these CSVs other than going to the raw 
 
 Murphy JM, Harris GR, Sexton DMH, et al (2018) UKCP18 Land Projections: Science Report [link to report](https://www.metoffice.gov.uk/pub/data/weather/uk/ukcp18/science-reports/UKCP18-Land-report.pdf)
 
-Yamazaki K, Sexton DMH, Rostron JW, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 2: Global performance and future changes Clim Dyn. [link to paper to appear mid May 2021 with link to part 1 below](https://doi.org/10.1007/s00382-020-05608-5) 
+Yamazaki K, Sexton DMH, Rostron JW, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 2: Global performance and future changes Clim Dyn. [link to paper with link to part 1 below](https://doi.org/10.1007/s00382-020-05608-5) 
 
 
 ### Underpinning papers
@@ -32,7 +32,7 @@ Li M, Wu P, Sexton DMH, Ma Z (2021) Potential shifts in climate zones under a fu
 
 Drouard M, Woollings T, Sexton DMH, and McSweeney CF (2021) Dynamical differences between short and long blocks in the Northern Hemisphere [link to paper](https://doi.org/10.1029/2020JD034082)
 
-Sexton DMH, McSweeney CF, Rostron JW, Yamazaki K, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 1: selecting the parameter combinations. Clim Dyn. [link to paper to appear mid May 2021](https://doi.org/10.1007/s00382-021-05709-9) 
+Sexton DMH, McSweeney CF, Rostron JW, Yamazaki K, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 1: selecting the parameter combinations. Clim Dyn. [link to paper](https://doi.org/10.1007/s00382-021-05709-9) 
 
 Zhang, W on precipitation variability accepted and to appear in Science Advances.
 
