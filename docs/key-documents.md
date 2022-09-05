@@ -21,6 +21,8 @@ Murphy JM, Harris GR, Sexton DMH, et al (2018) UKCP18 Land Projections: Science 
 
 Yamazaki K, Sexton DMH, Rostron JW, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 2: Global performance and future changes Clim Dyn. [link to paper with link to part 1 below](https://doi.org/10.1007/s00382-020-05608-5) 
 
+Sexton, David, Kuniko Yamazaki, James Murphy and John Rostron (2020) Assessment of drifts and internal variability in UKCP projections [link to report](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp-climate-drifts-report.pdf)
+
 
 ### Underpinning papers
 
