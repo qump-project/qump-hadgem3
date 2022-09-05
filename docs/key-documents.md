@@ -36,3 +36,5 @@ Sexton DMH, McSweeney CF, Rostron JW, Yamazaki K, et al (2021) A perturbed param
 
 Zhang, W on precipitation variability accepted and to appear in Science Advances.
 
+Peace Amy H., Ben B. B. Booth, Leighton Regayre, Ken S. Carslaw, David M. H. Sexton, Céline J. W. Bonfils, and John W. Rostron (2022)  Evaluating uncertainty in aerosol forcing of tropical precipitation shifts. Earth Syst. Dynam., 13, 1215–1232 [link to paper](https://esd.copernicus.org/articles/13/1215/2022/)
+
