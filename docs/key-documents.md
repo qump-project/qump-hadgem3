@@ -36,7 +36,11 @@ Drouard M, Woollings T, Sexton DMH, and McSweeney CF (2021) Dynamical difference
 
 Sexton DMH, McSweeney CF, Rostron JW, Yamazaki K, et al (2021) A perturbed parameter ensemble of HadGEM3-GC3.05 coupled model projections: part 1: selecting the parameter combinations. Clim Dyn. [link to paper](https://doi.org/10.1007/s00382-021-05709-9) 
 
-Zhang, W on precipitation variability accepted and to appear in Science Advances.
+Zhang, Wenxia & Furtado, Kalli & Wu, Peili & Zhou, Tianjun & Chadwick, Robin & Marzin, Charline & Rostron, John & Sexton, David. (2021). Increasing precipitation variability on daily-to-multiyear time scales in a warmer world. Science advances. 7. 10.1126/sciadv.abf8021. [link to paper](http://dx.doi.org/10.1126/sciadv.abf8021)
 
-Peace Amy H., Ben B. B. Booth, Leighton Regayre, Ken S. Carslaw, David M. H. Sexton, Céline J. W. Bonfils, and John W. Rostron (2022)  Evaluating uncertainty in aerosol forcing of tropical precipitation shifts. Earth Syst. Dynam., 13, 1215–1232 [link to paper](https://esd.copernicus.org/articles/13/1215/2022/)
+Peace Amy H., Ben B. B. Booth, Leighton Regayre, Ken S. Carslaw, David M. H. Sexton, Céline J. W. Bonfils, and John W. Rostron (2022)  Evaluating uncertainty in aerosol forcing of tropical precipitation shifts. Earth Syst. Dynam., 13, 1215–1232 [link to paper](https://esd.copernicus.org/articles/13/1215/2022/) 
+
+Jain, Shipra & Doherty, Ruth & Sexton, David & Turnock, Steven & Li, Chaofan & Jia, Zixuan & Shi, Zongbo & Lin, Pei. (2022). Future projections of daily haze-conducive and clear weather conditions over the North China Plain using a perturbed parameter ensemble. Atmospheric Chemistry and Physics. 22. 7443-7460. 10.5194/acp-22-7443-2022. [link to paper](http://dx.doi.org/10.5194/acp-22-7443-2022)
+
+Rostron, John & Sexton, David & Furtado, Kalli & Carvalho, Maria João & Milton, Sean & Rodríguez, José & Zhang, Wenxia. (2022). Evaluation and projections of the East Asian summer monsoon in a perturbed parameter ensemble. 10.21203/rs.3.rs-1415799/v1. [link to paper](http://dx.doi.org/10.21203/rs.3.rs-1415799/v1)
 
