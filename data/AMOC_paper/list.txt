@@ -1,1 +1,19 @@
 List of timeseries data for the AMOC paper
+
+amoc_26N_22mem_ppe_histrcp8p5.tar : Annual timeseries of AMOC at 26N in historical and RCP8.5 phases (22 members)
+amoc_26N_25mem_ppe_spinup.tar     : Annual timeseries of AMOC at 26N in PPE spinup phase (25 members)
+amoc_26N_2mem_ppe_hist.tar        : Annual timeseries of AMOC at 26N in historical phase for members 2549,2829
+calib_amoc_std.nc                 : Annual timeseries of AMOC at 26N in STD calibration and spinup
+ppe_spinup_natl55n_lo_v_heattr_25mem.tar : Annual timeseries of 1000m-bottom-averaged poleward heat transport in North Atlantic at 55N in PPE spinup phase (25 members) 
+ppe_spinup_natl55n_lo_v_salttr_25mem.tar : Annual timeseries of 1000m-bottom-averaged poleward salt transport in North Atlantic at 55N in PPE spinup phase (25 members) 
+ppe_spinup_natl55n_up_v_heattr_25mem.tar : Annual timeseries of 0-1000m averaged-poleward heat transport in North Atlantic at 55N in PPE spinup phase (25 members) 
+ppe_spinup_natl55n_up_v_salttr_25mem.tar : Annual timeseries of 0-1000m averaged-poleward salt transport in North Atlantic at 55N in PPE spinup phase (25 members) 
+ppe_spinup_spcorr_spg_avg_0-1000m_avg_an_htbudget_5mem.tar : Annual timeseries of SPG-averaged, 0-1000m-averaged heat budget terms in PPE spinup phase (5 members) 
+ppe_spinup_spcorr_spg_avg_0-1000m_avg_s_25mem.tar       : Annual timeseries of SPG-averaged, 0-1000m-averaged salinity in PPE spinup phase (25 members) 
+ppe_spinup_spcorr_spg_avg_0-1000m_avg_sigma_25mem.tar   : Annual timeseries of SPG-averaged, 0-1000m-averaged potential density in PPE spinup phase (25 members) 
+ppe_spinup_spcorr_spg_avg_0-1000m_avg_t_25mem.tar       : Annual timeseries of SPG-averaged, 0-1000m-averaged potential temperature in PPE spinup phase (25 members) 
+ppe_spinup_spcorr_spg_avg_1000m-bot_avg_s_25mem.tar     : Annual timeseries of SPG-averaged, 1000m-bottom-averaged salinity in PPE spinup phase (25 members) 
+ppe_spinup_spcorr_spg_avg_1000m-bot_avg_sigma_25mem.tar : Annual timeseries of SPG-averaged, 1000m-bottom -averaged potential density in PPE spinup phase (25 members)
+ppe_spinup_spcorr_spg_avg_1000m-bot_avg_t_25mem.tar     : Annual timeseries of SPG-averaged, 1000m-bottom -averaged potential temperature in PPE spinup phase (25 members)
+ppe_spinup_spcorr_spg_avg_mld_25mem.tar : Annual mean timeseries of SPG-averaged mixed layer depth in PPE spinup phase (25 members)
+ppe_spinup_spcorr_spg_avg_sohefldo_25mem.tar : Annual mean timeseries of SPG-averaged net downward heat flux in PPE spinup phase (25 members)
