@@ -1,0 +1,45 @@
+# (C) Crown Copyright, Met Office. All rights reserved.
+# 
+# This file is released under the BSD 3-Clause License.
+# See LICENSE.txt in this directory for full licensing details. 
+
+name: py3_iris
+channels:
+#  - https://conda.binstar.org/scitools
+#  - https://repo.continuum.io/pkgs/free
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+#  - cartopy
+#  - cf_units
+  - dask
+#  - dask-core
+  - dowhy
+  - ffmpeg
+  - future
+#  - ipykernel
+#  - ipython
+  - iris
+  - jupyter
+  - keras
+  - nltk
+  - pandas
+  - pandoc
+  - pip
+  - pymc3
+  - python=3.8
+  - python-dateutil
+  - scikit-learn
+  - scipy
+  - tensorflow
+  - theano
+  - pip:
+    - cffi==1.12.3
+    - gnureadline
+    - patsy
+    - rpy2
+    - salib
+    - theano
+#prefix: /Users/davidsexton/Dev/miniconda/envs/py3_iris
+#
