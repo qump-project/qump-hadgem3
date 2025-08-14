@@ -9,18 +9,18 @@ This code and all necessary input data is also available as a unix gzipped tarfi
 https://doi.org/10.5281/zenodo.14655585  
 
 Using the shell variable 'basedir' to label the local directory of the downloaded repository, the sub-directory  
-'''
+```
     $basedir/code
-'''
+```
 contains the python scripts to reproduce all the Figures in Murphy et al. (2025). Before running any code the file  
-'''
+```
     pathnames_v1.py
-'''
+```
 will need to be edited, potentially replacing the definition of basedir with the local directory name to which the 
 repository has been installed. Currently basedir defaults to  
-'''
+```
     basedir = os.path.join(os.getenv('HOME'), 'QDC')
-'''
+```
 
 Note: the acronym QDC here refers to "QUMP Decadal Comparison", while QUMP stands for 
 "Quantifying Uncertainty in Model Predictions", the orginial title for the research theme that developed 
@@ -29,42 +29,42 @@ the probabilistic projections analysed here.
 ## 2. Python environment and creating figures
 Some of the input iris cube data is in binary pickle format, and requires an iris version number of 3.7.0 (or less)
 to load. A suitable python environment can be created and activated using the  yaml configuration file iris370t.yaml:  
-'''
+```
     conda env create -f iris370t.yaml
     conda activate iris370t
-'''
+```
 
 Figures can then be created directly using python or ipython. For example, for Figure 7:  
-'''
+```
     ipython --matplotlib  
     %run $basedir/code/plot_fig7.py
-'''
+```
 
 ## 3. Figures directory
 The location for all Figures produced by the scripts in $basedir/code is  
-'''
+```
     $basedir/Figures
-'''
+```
 
 ## 4. Input Data
 Both data and code is available from https://doi.org/10.5281/zenodo.14655585  
 as a Unix gzipped tar file:  
-'''
+```
     murphy2025_qdc.tar.gz
-'''
+```
 
 The code alone is also available on GitHub:  
 https://github.com/qump-project/qump-hadgem3/tree/master/code/papers/ukcp_vs_decadal2025  
 
 The data in murphy2025_qdc.tar.gz should be downloaded to the desired top-level directory  
-'''
+```
     $basedir
-'''  
+```  
 and then gunzip-ed and extracted with tar:  
-'''
+```
     gunzip murphy2025_qdc.tar.gz  
     tar -xvf murphy2025_qdc.tar
-'''
+```
 
 There are seven sub-directories in Data:  
 
